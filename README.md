@@ -1,7 +1,6 @@
 Есть массив цветов в hex-формате и кнопки Start и Stop.
 
-<button type="button" data-action="start">Start</button>
-<button type="button" data-action="stop">Stop</button>
+
 
 Скрипт, который после нажатия кнопки Start, раз в секунду меняет цвет фона body
 на случайное значение из массива используя инлайн-стиль. При нажатии на кнопку
