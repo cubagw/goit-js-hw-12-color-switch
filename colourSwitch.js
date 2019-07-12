@@ -39,4 +39,6 @@ const timer = {
 };
 
 refs.startBtn.addEventListener('click', timer.startTimer.bind(timer));
+
+
 refs.stopBtn.addEventListener('click', timer.stopTimer.bind(timer));
